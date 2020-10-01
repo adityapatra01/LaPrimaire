@@ -1,4 +1,4 @@
-[![OpenCollective](https://opencollective.com/laprimaire/badge/backers.svg)](https://opencollective.com/laprimaire#support)
+[![unable to load](https://opencollective.com/laprimaire/badge/backers.svg)](https://opencollective.com/laprimaire#support)
 
 ![democratech logo](https://s3.eu-central-1.amazonaws.com/laprimaire/laprimaire-small-logo.png)
 # Website
